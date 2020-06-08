@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1580163781 source:c:\users\dell\desktop\empty\src\main.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL.h>
+
+1579629151 source:c:\users\dell\desktop\empty\src\main2.c
+	<stdio.h>
+	<SDL.h>
+	<SDL_timer.h>
+	<SDL_image.h>
+
+1579621355 source:c:\users\dell\desktop\empty\untitled2.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_timer.h>
+
+1580309018 source:c:\users\dell\desktop\empty\src\fonction.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<SDL.h>
+	<SDL_image.h>
+
+1579986802 c:\users\dell\desktop\empty\src\fonction.h
+	<SDL.h>
+	<SDL_image.h>
+
+1579985772 source:c:\users\dell\desktop\empty\src\functions.c
+	<stdio.h>
+	<SDL.h>
+	<SDL_image.h>
+
+1579985772 c:\users\dell\desktop\empty\src\functions.h
+	<SDL.h>
+	<SDL_image.h>
+
+1579986781 source:c:\users\dell\desktop\empty\src\foncton.c
+	<stdio.h>
+	<SDL.h>
+	<SDL_image.h>
+
+1580309334 source:c:\users\dell\desktop\empty\src\init.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<SDL.h>
+
